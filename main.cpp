@@ -15,3 +15,7 @@ int main() {
         b=c;
         cout << a << endl;
     }
+
+
+    return 0;
+}
